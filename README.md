@@ -1,5 +1,4 @@
-# getcleandata
-## Coursera Getting and cleaning data assignment
+# Coursera Getting and cleaning data assignment
 
 This repository contains a script, run_analysis.R, which can be used to download, extract and manipulate the Samsung Galaxy S accelerometer and training data. This is the only script needed to replicate the data cleaning process.
 
